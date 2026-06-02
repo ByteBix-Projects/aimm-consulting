@@ -1,0 +1,21 @@
+{
+  "name": "aimm-consulting-website",
+  "version": "1.0.0",
+  "description": "Premium corporate landing page for AIMM Consulting LLP.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "management",
+    "consulting",
+    "gurgaon",
+    "aimm"
+  ],
+  "author": "AIMM Consulting LLP",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
